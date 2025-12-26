@@ -1,11 +1,16 @@
 ## Hi there 👋
-
+My name is Artem. I'm thirty seven years old. I work in a engaged in cryptocurrency mining company. I'm a chief power engineer. 
+<p>I little bit learn python through about three years.
+I finished three python courses in stepik.org. Now i'am studying oop python.
+<p> Unfortunately I haven't any commercial programming expiriens. But I hope it will change soon.
+<p> Early I used php+javaScript+html+codeignitor for making my own little internet store. My wife sold her made clothings on my site.
+<P>About me: I have three childrens and one wife. I'm a snowboarder, motobike rider and gym visitor.
 <!--
 **shvargonoff/shvargonoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on  
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
